@@ -6,12 +6,29 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5cabc9a-2caf-4c3e-bf22-5bc9ba87e699" name="Default Changelist" comment="面试大纲第一版">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/xiaobai_guangzhou.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xiaobai_guangzhou.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +55,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,6 +72,7 @@
       <workItem from="1650351410054" duration="1711000" />
       <workItem from="1650366057803" duration="227000" />
       <workItem from="1650366322480" duration="69000" />
+      <workItem from="1650458279961" duration="3097000" />
     </task>
     <servers />
   </component>
@@ -63,11 +84,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="49" key="#Project_Structure" timestamp="1650463054053">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="49" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1650463054053" />
+    <state x="0" y="49" key="SettingsEditor" timestamp="1650462988265">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="49" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1650462988265" />
+    <state x="289" y="207" key="Vcs.Push.Dialog.v2" timestamp="1650373362260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="289" y="207" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1650373362260" />
   </component>
 </project>
