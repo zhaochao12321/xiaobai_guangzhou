@@ -25,20 +25,31 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5cabc9a-2caf-4c3e-bf22-5bc9ba87e699" name="Default Changelist" comment="面试大纲第一版">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b5cabc9a-2caf-4c3e-bf22-5bc9ba87e699" name="Default Changelist" comment="学习体系建立2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/guangzhou_1/demo_0421.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text/分布式和微服务/分布式/一致性算法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text/分布式和微服务/分布式/分布式任务" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text/分布式和微服务/分布式/分布式会话" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/text/线上问题解决汇总/频繁GC" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/xiaobai_guangzhou.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/xiaobai_guangzhou.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/text/java/java_基础.doc" beforeDir="false" afterPath="$PROJECT_DIR$/src/text/java/java_基础.doc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="temporary" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,9 +66,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/text/分布式和微服务/分布式" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\赵小白\IdeaProjects\xiaobai_guangzhou\src\text\分布式和微服务\分布式" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,7 +90,16 @@
       <workItem from="1650366057803" duration="227000" />
       <workItem from="1650366322480" duration="69000" />
       <workItem from="1650458279961" duration="3097000" />
+      <workItem from="1650534647568" duration="3137000" />
     </task>
+    <task id="LOCAL-00001" summary="学习体系建立2">
+      <created>1650466721009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650466721009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,18 +129,28 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习体系建立" />
+    <MESSAGE value="学习体系建立2" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习体系建立2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="49" key="#Project_Structure" timestamp="1650463054053">
+    <state x="0" y="49" key="#Project_Structure" timestamp="1650466933686">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="49" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1650463054053" />
+    <state x="0" y="49" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1650466933686" />
+    <state x="-632" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1650549957336">
+      <screen x="-1440" y="-137" width="1440" height="900" />
+    </state>
+    <state x="-632" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768/-1440.-137.1440.900@-1440.-137.1440.900" timestamp="1650549957336" />
+    <state x="808" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1650466573018" />
     <state x="0" y="49" key="SettingsEditor" timestamp="1650462988265">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="0" y="49" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1650462988265" />
-    <state x="289" y="207" key="Vcs.Push.Dialog.v2" timestamp="1650373362260">
+    <state x="289" y="207" key="Vcs.Push.Dialog.v2" timestamp="1650466758806">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="289" y="207" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1650373362260" />
+    <state x="289" y="207" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1650466758806" />
   </component>
 </project>
